@@ -38,12 +38,15 @@ Highly motivated and detail-oriented data analytics graduate student with five y
 # Prediction of fraudulent transactions: 
 •	Explored and gained comprehensive insights into transactional data to effectively predict fraudulent transactions through the application of Frequent Pattern Mining using the Apriori Growth algorithm.
 •	Contributed to the enhancement of fraud detection systems by leveraging Frequent Pattern Mining techniques to identify hidden relationships and anomalies within transactional data, thus minimizing financial losses and strengthening security measures.
+![Project Link](https://github.com/snehakm09/Detection-of-Fraudulent-transactions)
 
 # Formula1 sports analysis: 
 •	Applied regression analysis techniques and utilized ANOVA (Analysis of Variance) modeling to conduct in-depth analysis of Formula 1 sports data. 
 •	Conducted ANOVA modeling to assess the significance of different factors on race outcomes, providing valuable insights into the relative importance of each variable.
 
 ![Formula1 sports](/formula.jpeg)
+
+
 
 # Airbnb dashboard using Tableau:
 •	Developed a user-friendly Airbnb dashboard using Tableau, enabling efficient data visualization and analysis of rental property performance metrics. 
